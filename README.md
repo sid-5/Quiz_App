@@ -1,16 +1,7 @@
-# flutter_ap
+# UI design for QUIZ APP
+Light blue coloured scheme with beautiful UI elements
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# IMAGES
+![image](https://user-images.githubusercontent.com/70048742/115724332-79e2d080-a39e-11eb-9359-83926ad6a6da.png)
+![image](https://user-images.githubusercontent.com/70048742/115724440-92eb8180-a39e-11eb-9a2d-101972a08cf8.png)
+![image](https://user-images.githubusercontent.com/70048742/115724501-a0087080-a39e-11eb-9e87-9aa06760c273.png)
